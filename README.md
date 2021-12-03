@@ -1,0 +1,1 @@
+# c_plus_plus_raii_pattern
