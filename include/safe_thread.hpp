@@ -1,7 +1,7 @@
 /*
  * safe_thread.hpp
  * 
- * Copyright 2021 Caio Felipe Cruz <caio.crux@gmai.com>
+ * Copyright 2021 Caio Felipe Cruz <caio.crux@gmail.com>
  * 
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
